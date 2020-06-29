@@ -128,24 +128,3 @@ git clone https://github.com/larack8/calcwords
 如下图样式
 
 ![输出结果文件](testpkg/cc.png)
-
-
-### 5. 关于作者
-
-> * jinqianli
-
-> * email: [jinqiangood@gmail.com], [larack@126.com]
-
-> * [jinqianli-知乎](https://www.zhihu.com/people/jinqianli/)
-
-> * [jinqianli-cnblog](https://www.cnblogs.com/larack/)
-
-> * jinqianli-官方小程序
-
-![jinqianli-官方小程序](testpkg/jinqianli_miniapp_logo.png)
-
-如果你觉得这篇文章很好，请赞赏作者加个鸡腿吧
-
-![jinqianli-赞赏码](testpkg/jinqianli_shoukuan.png)
-
-`jinqianli,2019.02.20`
