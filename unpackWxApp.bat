@@ -1,0 +1,1 @@
+node wuWxapkg.js "%1"
